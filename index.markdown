@@ -67,4 +67,5 @@ Test size: 723<br />
 | F1 Score  	| 0.99  	| 0.87       	| 0.89 	|
 | Recall    	| 0.99  	| 0.90       	| 0.91 	|
 | Precision 	| 0.99  	| 0.85       	| 0.87 	|
+
 </article>
