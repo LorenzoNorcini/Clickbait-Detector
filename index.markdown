@@ -2,7 +2,10 @@
 <article markdown="1" class="post-content">
 # Clickbait-Detector
 Detects clickbait headlines using a SVM classifier
-
+<section id="downloads">
+              <a class="zip_download_link" href="https://github.com/pages-themes/slate/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/pages-themes/slate/tarball/master">Download this project as a tar.gz file</a>
+            </section>
 ## Requirements
 * Python 2.7.12
 * Praw 4.3.1 - Python Reddit API Wrapper (https://github.com/praw-dev/praw)
