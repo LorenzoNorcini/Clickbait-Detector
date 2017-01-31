@@ -1,5 +1,3 @@
-<snippet>
-  <content>
 # Clickbait-Detector
 Detects clickbait headlines using a SVM classifier
 
