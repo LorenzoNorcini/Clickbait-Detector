@@ -32,7 +32,7 @@ python train.py
 ```
 
 This will load the dataset (NTRD file), train the classifier and save it.<br /> 
-If you want to download recent titles from reddit delete de NTRD file and then re-run train.py<br /> 
+If you want to download recent titles from reddit delete the NTRD file and then re-run train.py<br /> 
 (NOTE: this will remove current titles obtained from Reddit since there is no check for duplicates)<br /> 
 Then you can call the predict.py script passing the string of the headline as a parameter.<br /> 
 
