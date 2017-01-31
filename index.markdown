@@ -47,6 +47,7 @@ plus some titles found on the subreddits r/news, r/inthenews and r/savedyouaclic
 ## Implementation Details
 
 The following operations are used as preprocessing for the dataset:
+
 * tokenizing
 * lemmatizing
 * stopwords are removed
@@ -61,11 +62,13 @@ Train size: 12336<br />
 Validazion size: 1449<br /> 
 Test size: 723<br /> 
 
+
 |           	| Train 	| Validation 	| Test 	|
 |-----------	|-------	|------------	|------	|
 | Accuracy  	| 0.99  	| 0.88       	| 0.90 	|
 | F1 Score  	| 0.99  	| 0.87       	| 0.89 	|
 | Recall    	| 0.99  	| 0.90       	| 0.91 	|
 | Precision 	| 0.99  	| 0.85       	| 0.87 	|
+
 
 </article>
