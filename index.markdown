@@ -1,8 +1,5 @@
 {::options parse_block_html="true" /}
-<section id="downloads">
-              <a class="zip_download_link" href="https://github.com/pages-themes/slate/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/pages-themes/slate/tarball/master">Download this project as a tar.gz file</a>
-            </section>
+
 <article markdown="1" class="post-content">
 # Clickbait-Detector
 Detects clickbait headlines using a SVM classifier
