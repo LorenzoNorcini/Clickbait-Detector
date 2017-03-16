@@ -1,4 +1,3 @@
-<article markdown="1" class="post-content">
 # Clickbait-Detector
 Detects clickbait headlines using a SVM classifier
 
